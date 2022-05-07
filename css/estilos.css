@@ -23,9 +23,9 @@ body
 
 #cabecera
 {
-   background: black;
+   background: yellow;
     box-shadow: Opx 2px 20px Opx Orgba(0,0,0,0.5);
-    color: white;
+    color: black;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
